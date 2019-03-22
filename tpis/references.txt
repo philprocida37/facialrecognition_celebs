@@ -1,0 +1,15 @@
+https://github.com/BVLC/caffe/blob/master/models/bvlc_reference_caffenet/deploy.prototxt
+https://github.com/opencv/opencv/tree/master/modules/dnn
+https://docs.opencv.org/trunk/d6/d0f/group__dnn.html
+https://github.com/pyannote/pyannote-data/blob/master/openface.nn4.small2.v1.t7
+https://docs.python.org/3/library/pickle.html
+https://www.pyimagesearch.com/2018/06/18/face-recognition-with-opencv-python-and-deep-learning/
+https://www.learnopencv.com/blob-detection-using-opencv-python-c/
+https://makehardware.com/2016/05/19/blob-detection-with-python-and-opencv/
+http://scikit-image.org/docs/dev/auto_examples/features_detection/plot_blob.html
+https://developers.arcgis.com/python/sample-notebooks/counting-features-in-satellite-images-using-scikit-image/
+https://www.pyimagesearch.com/2017/11/06/deep-learning-opencvs-blobfromimage-works/
+https://www.scipy-lectures.org/packages/scikit-learn/index.html
+https://docs.scipy.org/doc/numpy-1.15.1/reference/generated/numpy.argmax.html
+https://docs.opencv.org/2.4/modules/core/doc/drawing_functions.html?highlight=rectangle#cv2.rectangle
+https://docs.opencv.org/2.4/modules/core/doc/drawing_functions.html

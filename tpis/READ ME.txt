@@ -1,0 +1,7 @@
+Phil Procida - Term Project - facial_recognition.py
+---------------------------
+To run the program please:
+	Open cmd and cd C:\...\tpis\all
+	Paste the following command into cmd:
+		python facial_recognition.py -d face_detection_model -m openface_nn4.small2.v1.t7 -r output/recognizer.pickle -l output/le.pickle
+	Press enter
